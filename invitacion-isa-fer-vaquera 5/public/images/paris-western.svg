@@ -1,0 +1,16 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="r" cx="50%" cy="45%" r="55%">
+      <stop stop-color="#D9B46F" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#F7F1E7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <circle cx="450" cy="450" r="360" fill="url(#r)"/>
+  <circle cx="450" cy="450" r="330" fill="#F7F1E7" stroke="#7A4E2D" stroke-opacity=".18" stroke-width="4"/>
+  <path d="M450 150 L330 690 M450 150 L570 690 M374 420 H526 M345 560 H555 M302 690 H598" stroke="#4A2F1B" stroke-width="18" stroke-linecap="round"/>
+  <path d="M246 335 C310 265 590 265 654 335 C580 370 320 370 246 335Z" fill="#7A4E2D"/>
+  <path d="M360 330 C385 245 515 245 540 330" fill="#9A6B3E"/>
+  <path d="M250 717 C340 665 560 665 650 717" stroke="#65724A" stroke-width="16" stroke-linecap="round"/>
+  <path d="M320 730 C375 700 525 700 580 730" stroke="#D9B46F" stroke-width="12" stroke-linecap="round"/>
+  <text x="450" y="815" text-anchor="middle" font-family="Georgia, serif" font-size="56" fill="#4A2F1B">París en el rancho</text>
+</svg>

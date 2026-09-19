@@ -1,0 +1,14 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#F7F1E7"/>
+      <stop offset="1" stop-color="#DCC7A6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <rect x="60" y="60" width="1080" height="510" rx="38" fill="none" stroke="#7A4E2D" stroke-opacity=".24" stroke-width="3"/>
+  <text x="600" y="235" text-anchor="middle" font-family="Georgia, serif" font-size="110" fill="#4A2F1B">Isa &amp; Fer</text>
+  <text x="600" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" letter-spacing="10" fill="#65724A">NOS CASAMOS</text>
+  <text x="600" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#7A4E2D">23 de octubre de 2026 · Granja La Tekahuita</text>
+  <path d="M600 440 C590 420 560 420 560 450 C560 485 600 505 600 505 C600 505 640 485 640 450 C640 420 610 420 600 440Z" fill="#D9B46F" opacity=".7"/>
+</svg>
